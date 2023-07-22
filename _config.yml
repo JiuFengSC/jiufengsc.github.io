@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Jiu FENG"
-  avatar           : "profile.png"
+  avatar           : "/images/head_portrait.JPG"
   bio              : "M.S. Student in KAIST"
-  location         : "/images/head_portrait.JPG"
+  location         : "Daejeon, South Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UivKfL4AAAAJ&hl=en"

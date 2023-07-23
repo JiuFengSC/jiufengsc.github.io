@@ -56,7 +56,7 @@ Publications
   <div>
   <b>Decoupled adversarial contrastive learning for self-supervised adversarial robustness</b> <br>
   Chaoning Zhang*, Kang Zhang*, Chenshuang Zhang, Axi Niu, <b>Jiu Feng</b>, Chang D Yoo, In So Kweon <br>
-  <i>ECCV 2022 <p style="color:red;display: inline;">Oral</p> </i> 
+  <i>ECCV 2022 <p style="color:red;display: inline;"> Oral</p> </i> 
   <!-- <a href="https://arxiv.org/pdf/2307.09286">[Link]</a>  -->
   </div>
 </div>
@@ -97,7 +97,7 @@ Selected Awards & Scholarship
 ======
 - **KAIST Full Scholarship** for M.S. in 2022<br>
 - **Provincial Outstanding Graduates** (Top 3% in Sichuan Province) in 2022<br>
-- **National Scholarship in China** (Top 1% in SCU, Top 0.2% in China.) in 2021<br>
+- **National Scholarship in China** (Top 1% in SCU, Top 0.2% in China) in 2021<br>
 - **Wang WenGuo Top Scholarship** (5 Winners in Honors College) in 2021<br>
 - **First-class Scholarship of Sichuan University** (top 5% in SCU) in 2021<br>
 - **National Encouragement Scholarship** (twice) in 2019, 2020<br>

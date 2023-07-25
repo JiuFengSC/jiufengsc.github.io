@@ -11,13 +11,13 @@ redirect_from:
 
 About me
 ======
-Hi there! I am currently a Electrical Engineering M.S. Student in [KAIST](https://www.kaist.ac.kr/en/). I’m very fortunate to be a member of [Multimodal AI Lab](https://mmai.io/), supervised by Prof. [Joon Son Chung](http://mm.kaist.ac.kr/joon/). I also worked closely with Dr. [Arda Senocak](https://ardasnck.github.io/) in my recent research.
+Hi there! I am Jiu Feng, currently a second-year Electrical Engineering M.S. Student in [KAIST](https://www.kaist.ac.kr/en/), expecting to get my degree in 2024 Summer. I’m very fortunate to be a member of [Multimodal AI Lab](https://mmai.io/), supervised by Prof. [Joon Son Chung](http://mm.kaist.ac.kr/joon/). I also worked closely with Dr. [Arda Senocak](https://ardasnck.github.io/) in my recent research.
 
 I received my B.Eng. degree with honor from [Sichuan University](https://en.scu.edu.cn/) in 2022. Prior to that, I worked with Prof. [Chaoning Zhang](https://chaoningzhang.github.io/), as a research intern at KAIST [Robotics and Computer Vision Lab](http://rcv.kaist.ac.kr/), led by Prof. [In So Kweon.](https://scholar.google.com/citations?user=XA8EOlEAAAAJ&hl=en)
 
-My research interests mainly lie in **Audio-Visual Learning, Audio Representation Learning and Efficient Deeping Learning**.
+My research interests mainly lie in **Multimodal Learning, Audio-Visual Learning and Efficient Deeping Learning**.
 
-If you need more detail information, my CV is [here]("https://jiufengsc.github.io/").
+If you need more detail information, my CV is [here](/files/CV_JF.pdf).
 
 Publications
 ======
@@ -77,7 +77,7 @@ Education
   <img src="images/KAIST_logo.png" alt="pic" width="120">
   <div>
   <b>KAIST</b> <br>
-  <i>M.S. in Electrical Engineering. <b>GPA:4.3/4.3</b> (Temporarily)</i><br>
+  <i>M.S. in Electrical Engineering. <b>GPA:4.3/4.3</b> (So far)</i><br>
   Advisor: Prof. <a href="http://mm.kaist.ac.kr/joon/">Joon Son Chung</a>  <br>
   </div>
 </div>
@@ -95,9 +95,9 @@ Education
 
 Selected Awards & Scholarship
 ======
-- **KAIST Full Scholarship** for M.S. in 2022<br>
+- **KAIST Full Scholarship** for M.S. students in 2022<br>
 - **Provincial Outstanding Graduates** (Top 3% in Sichuan Province) in 2022<br>
 - **National Scholarship in China** (Top 1% in SCU, Top 0.2% in China) in 2021<br>
 - **Wang WenGuo Top Scholarship** (5 Winners in Honors College) in 2021<br>
-- **First-class Scholarship of Sichuan University** (top 5% in SCU) in 2021<br>
-- **National Encouragement Scholarship** (twice) in 2019, 2020<br>
+- **First-class Scholarship of Sichuan University** (Top 2% in SCU) in 2021<br>
+- **National Encouragement Scholarship** (Twice) in 2019, 2020<br>

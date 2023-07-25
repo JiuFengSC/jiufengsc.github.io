@@ -47,7 +47,7 @@ Publications
   <b>FlexiAST: Flexibility is What AST Needs</b> <br>
   <b>Jiu Feng*</b>, Mehmet Hamza Erol*, Joon Son Chung, Arda Senocak <br>
   <i>INTERSPEECH 2023 Poster</i> <br>
-  <p><i>I will present this paper in Dublin, Ireland.</i></p>
+  <p><i><b>I will present this paper in Dublin, Ireland.</b></i></p>
   </div>
 </div>
 
@@ -97,7 +97,7 @@ Selected Awards & Scholarship
 ======
 - **KAIST Full Scholarship** for M.S. students in 2022<br>
 - **Provincial Outstanding Graduates** (Top 3% in Sichuan Province) in 2022<br>
-- **National Scholarship in China** (Top 1% in SCU, Top 0.2% in China) in 2021<br>
-- **Wang WenGuo Top Scholarship** (5 Winners in Honors College) in 2021<br>
+- **National Scholarship** (Top 1% in SCU, Top 0.2% in China) in 2021<br>
+- **Special Award of Wang Wen Guo Scholarship** (5 Winners in Honors College) in 2021<br>
 - **First-class Scholarship of Sichuan University** (Top 2% in SCU) in 2021<br>
-- **National Encouragement Scholarship** (Twice) in 2019, 2020<br>
+- **National Encouragement Scholarship** (Awarded for two years) in 2019, 2020<br>

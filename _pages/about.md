@@ -87,7 +87,7 @@ Education
   <img src="images/SCU.png" alt="pic" width="120">
   <div>
   <b>Sichuan University</b> <i>2018.09~2022.06</i><br>
-  <i>B.S. in Software Engineering. <b>GPA: 3.92/4.0, Ranking: 3/215</b> </i> <br>
+  <i>B.S. in Software Engineering. <b>GPA: 3.92/4.0, Ranking: 3/215(Top 1.4%)</b> </i> <br>
   A member of <a href="https://en.wikipedia.org/wiki/Wu_Yuzhang_Honors_College">Wu Yuzhang Honors College</a>.<br>
   Advisor: Prof. <a href="https://scholar.google.com/citations?hl=en&user=c2fckoYAAAAJ">Qijun Zhao</a>  <br>
   </div>

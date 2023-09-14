@@ -42,13 +42,23 @@ Publications
     }
 </style>
 
+
+<div class="flex-container">
+  <img src="images/ReAST.png" alt="pic">
+  <div>
+  <b>From Coarse To Fine: Efficient Training for Audio Spectrogram Transformers</b> <br>
+  <b>Jiu Feng*</b>, Mehmet Hamza Erol*, Joon Son Chung, Arda Senocak <br>
+  <i>Under-Review in ICASSP 2024</i> <br>
+  </div>
+</div>
+
 <div class="flex-container">
   <img src="images/FlexiAST.png" alt="pic">
   <div>
   <b>FlexiAST: Flexibility is What AST Needs</b> <br>
   <b>Jiu Feng*</b>, Mehmet Hamza Erol*, Joon Son Chung, Arda Senocak <br>
   <i>INTERSPEECH 2023 Poster</i> <br>
-  <p><i><b>I will present this paper in Dublin, Ireland.</b></i></p>
+  <p><i><b>Presented in Dublin, Ireland.</b></i></p>
   </div>
 </div>
 
@@ -78,7 +88,7 @@ Education
   <img src="images/KAIST_logo.png" alt="pic" width="120">
   <div>
   <b>KAIST</b> <i> 2022.09~2024.06</i><br>
-  <i>M.S. in Electrical Engineering. <b>GPA:4.3/4.3</b> (So far)</i><br>
+  <i>M.S. in Electrical Engineering. <b>GPA:4.3/4.3</b></i><br>
   Advisor: Prof. <a href="http://mm.kaist.ac.kr/joon/">Joon Son Chung</a>  <br>
   </div>
 </div>

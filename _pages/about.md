@@ -57,8 +57,7 @@ Publications
   <div>
   <b>FlexiAST: Flexibility is What AST Needs</b> <br>
   <b>Jiu Feng*</b>, Mehmet Hamza Erol*, Joon Son Chung, Arda Senocak <br>
-  <i>INTERSPEECH 2023 Poster</i> <br>
-  <p><i><b>Presented in Dublin, Ireland.</b></i></p>
+  <i>INTERSPEECH 2023</i> <br>
   </div>
 </div>
 

@@ -18,7 +18,7 @@ I received my B.Eng. degree with honors from [Sichuan University](https://en.scu
 
 My research interests mainly lie in **Multimodal Learning, Audio-Visual Learning and Efficient Representation Learning**.
 
-If you need more detail information, my CV is [[here]](/files/CV_JF.pdf).
+If you need more detail information, my CV is [[here]](/files/CV_JiuFeng.pdf).
 
 Publications
 ======

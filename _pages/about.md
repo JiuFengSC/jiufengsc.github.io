@@ -16,7 +16,7 @@ Hi there! I am Jiu Feng, currently a second-year Electrical Engineering M.S. Stu
 
 I received my B.Eng. degree with honors from [Sichuan University](https://en.scu.edu.cn/) in 2022. Prior to that, I worked with Prof. [Chaoning Zhang](https://chaoningzhang.github.io/), as a research intern at KAIST [Robotics and Computer Vision Lab](http://rcv.kaist.ac.kr/), led by Prof. [In So Kweon.](https://scholar.google.com/citations?user=XA8EOlEAAAAJ&hl=en)
 
-My research interests mainly lie in **Multimodal Learning, Audio-Visual Learning and Efficient Representation Learning**.
+My research interests mainly lie in **Multimodal Learning, Audio-Visual Learning, Language-Vision Learning and Efficient Representation Learning**.
 
 If you need more detail information, my CV is [[here]](/files/CV_JiuFeng.pdf).
 

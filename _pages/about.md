@@ -48,7 +48,7 @@ Publications
   <div>
   <b>From Coarse To Fine: Efficient Training for Audio Spectrogram Transformers</b> <br>
   <b>Jiu Feng*</b>, Mehmet Hamza Erol*, Joon Son Chung, Arda Senocak <br>
-  <i>Under-Review in ICASSP 2024</i> <br>
+  <i>Under Review</i> <br>
   </div>
 </div>
 

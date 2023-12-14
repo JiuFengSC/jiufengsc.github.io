@@ -111,3 +111,7 @@ Selected Awards & Scholarship
 - **Special Award of Wang Wen Guo Scholarship** (5 Winners in Honors College) in 2021<br>
 - **First-class Scholarship of Sichuan University** (Top 2% in SCU) in 2021<br>
 - **National Encouragement Scholarship** (Awarded for two years) in 2019, 2020<br>
+- **National Second Prize**(Top 2%) in “Higher Education Cup” Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)<br>
+- **First Prize**(Top 5%) in the Asia and Pacific Mathematical Contest in Modeling (APMCM)<br>
+- **Meritorious Winner** in Interdisciplinary Contest In Modeling (ICM)<br>
+- **Gold Award** in International Genetically Engineered Machine Competition (IGEM)<br>

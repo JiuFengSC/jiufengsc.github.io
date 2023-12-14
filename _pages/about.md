@@ -48,7 +48,8 @@ Publications
   <div>
   <b>From Coarse To Fine: Efficient Training for Audio Spectrogram Transformers</b> <br>
   <b>Jiu Feng*</b>, Mehmet Hamza Erol*, Joon Son Chung, Arda Senocak <br>
-  <i>Accepted by ICASSP 2024</i> <br>
+  <i>Accepted by ICASSP 2024</i>
+  <a href="https://jiufengsc.github.io/files/From_Coarse_To_Fine_Efficient_Training_for_Audio_Spectrogram_Transformers.pdf">[link]</a> <br> 
   </div>
 </div>
 
@@ -57,7 +58,9 @@ Publications
   <div>
   <b>FlexiAST: Flexibility is What AST Needs</b> <br>
   <b>Jiu Feng*</b>, Mehmet Hamza Erol*, Joon Son Chung, Arda Senocak <br>
-  <i>Accepted by INTERSPEECH 2023</i> <br>
+  <i>Accepted by INTERSPEECH 2023</i> 
+  <a href="https://arxiv.org/pdf/2307.09286">[link]</a>
+  <br>
   </div>
 </div>
 
@@ -66,7 +69,7 @@ Publications
   <div>
   <b>Decoupled adversarial contrastive learning for self-supervised adversarial robustness</b> <br>
   Chaoning Zhang*, Kang Zhang*, Chenshuang Zhang, Axi Niu, <b>Jiu Feng</b>, Chang D Yoo, In So Kweon <br>
-  <i>Accepted by ECCV 2022 <p style="color:red;display: inline;"> <b>Oral</b> </p> </i> 
+  <i>Accepted by ECCV 2022 <p style="color:red;display: inline;"> <b>Oral</b> </p> </i> <a href="https://arxiv.org/pdf/2207.10899">[link]</a>
   <!-- <a href="https://arxiv.org/pdf/2307.09286">[Link]</a>  -->
   </div>
 </div>
@@ -76,7 +79,7 @@ Publications
   <div>
   <b>	Noise augmentation is all you need for FGSM fast adversarial training: Catastrophic overfitting and robust overfitting require different augmentation</b> <br>
   Chaoning Zhang*, Kang Zhang*, Axi Niu, Chenshuang Zhang,  <b>Jiu Feng</b>, Chang D Yoo, In So Kweon <br>
-  <i>arXiv e-prints 2022</i> 
+  <i>arXiv e-prints 2022</i> <a href="https://jiufengsc.github.io/files/Noise_Augmentation_Is_All_You_Need_For_FGSM_Fast_A.pdf">[link]</a>
   <!-- <a href="https://deepai.org/publication/noise-augmentation-is-all-you-need-for-fgsm-fast-adversarial-training-catastrophic-overfitting-and-robust-overfitting-require-different-augmentation">[Link]</a>  -->
   </div>
 </div>

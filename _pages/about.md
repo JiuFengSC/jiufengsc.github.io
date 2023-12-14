@@ -110,7 +110,7 @@ Selected Awards & Scholarship
 ======
 - **KAIST Full Scholarship** for M.S. students in 2022<br>
 - **Provincial Outstanding Graduates** (Top 3% in Sichuan Province) in 2022<br>
-- **National Scholarship** (Top 1% in SCU, Top 0.2% in China) in 2021<br>
+- **National Scholarship** (Top 0.2% in China) in 2021<br>
 - **Special Award of Wang Wen Guo Scholarship** (5 Winners in Honors College) in 2021<br>
 - **First-class Scholarship of Sichuan University** (Top 2% in SCU) in 2021<br>
 - **National Encouragement Scholarship** (Awarded for two years) in 2019, 2020<br>

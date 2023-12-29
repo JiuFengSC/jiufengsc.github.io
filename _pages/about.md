@@ -119,8 +119,17 @@ Selected Awards & Scholarship
 - **Meritorious Winner** in Interdisciplinary Contest In Modeling (ICM)<br>
 - **Gold Award** in International Genetically Engineered Machine Competition (IGEM)<br>
 
-<div hidden>
+<div hidden  style="width:50%;">
 <!-- <a href="http://www.clustrmaps.com/map/Jiufengsc.github.io" title="Visit tracker for Jiufengsc.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=WU1e21Wr3it5EdEPQQ961ysHrThSFB_sAcHq5P0B1DA" /></a> -->
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WU1e21Wr3it5EdEPQQ961ysHrThSFB_sAcHq5P0B1DA"></script>
-</div>
+<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5iffew9vddy&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script> -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MPEZ7VWJR6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-MPEZ7VWJR6');
+</script>
+</div>

@@ -115,9 +115,9 @@ Selected Awards & Scholarship
 - **First-class Scholarship of Sichuan University** (Top 2% in SCU)<br>
 - **National Encouragement Scholarship** (Awarded for two years)<br>
 - **National Second Prize**(Top 2%) in “Higher Education Cup” Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)<br>
-- **First Prize**(Top 5%) in the Asia and Pacific Mathematical Contest in Modeling (APMCM)<br>
-- **Meritorious Winner** in Interdisciplinary Contest In Modeling (ICM)<br>
 - **Gold Award** in International Genetically Engineered Machine Competition (IGEM)<br>
+<!-- - **Meritorious Winner** in Interdisciplinary Contest In Modeling (ICM)<br> -->
+<!-- - **First Prize**(Top 5%) in the Asia and Pacific Mathematical Contest in Modeling (APMCM)<br> -->
 
 <div hidden  style="width:50%;">
 <!-- <a href="http://www.clustrmaps.com/map/Jiufengsc.github.io" title="Visit tracker for Jiufengsc.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=WU1e21Wr3it5EdEPQQ961ysHrThSFB_sAcHq5P0B1DA" /></a> -->

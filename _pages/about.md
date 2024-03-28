@@ -88,7 +88,7 @@ Education
 <div class="flex-container">
   <img src="images/UT-Austin-logo.png" alt="pic" width="120">
   <div>
-  <b>UT-Austin</b> <i> 2024~2029(expected)</i><br>
+  <b>The University of Texas at Austin</b> <i> 2024~2029(expected)</i><br>
   <i>Ph.D. in Computer Science.</i><br>
   <!-- Advisor: Prof. <a href="http://mm.kaist.ac.kr/joon/">Joon Son Chung</a>  <br> -->
   Advisor: Prof. <a href="https://www.cs.utexas.edu/~harwath/">David Harwath</a>  <br>

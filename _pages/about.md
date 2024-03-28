@@ -11,10 +11,9 @@ redirect_from:
 
 About me
 ======
-Hi there! I am Jiu Feng, currently a second-year Electrical Engineering M.S. Student in [KAIST](https://www.kaist.ac.kr/en/).
- I’m very fortunate to be a member of [Multimodal AI Lab](https://mmai.io/), supervised by Prof. [Joon Son Chung](http://mm.kaist.ac.kr/joon/). I also worked closely with Dr. [Arda Senocak](https://ardasnck.github.io/) in my recent research.
+Hi there! I am Jiu Feng, an incoming Ph.D. student at [UT-Austin](https://www.utexas.edu/). Currently, I am a M.S. Student at [KAIST](https://www.kaist.ac.kr/en/), supervised by Prof. [Joon Son Chung](http://mm.kaist.ac.kr/joon/). I also worked closely with Dr. [Arda Senocak](https://ardasnck.github.io/) in my recent research. I received my B.Eng. degree with honors from [Sichuan University](https://en.scu.edu.cn/) in 2022. 
 
-I received my B.Eng. degree with honors from [Sichuan University](https://en.scu.edu.cn/) in 2022. Prior to that, I was a research intern at KAIST [Robotics and Computer Vision Lab](http://rcv.kaist.ac.kr/), led by Prof. [In So Kweon.](https://scholar.google.com/citations?user=XA8EOlEAAAAJ&hl=en)
+Prior to that, I was a research intern at KAIST [Robotics and Computer Vision Lab](http://rcv.kaist.ac.kr/), led by Prof. [In So Kweon.](https://scholar.google.com/citations?user=XA8EOlEAAAAJ&hl=en)
 
 My research interests mainly lie in **Multimodal Learning, Audio-Visual Learning, Language-Vision Learning and Efficient Representation Learning**.
 
@@ -87,9 +86,18 @@ Publications
 Education
 ======
 <div class="flex-container">
+  <img src="images/UT-Austin-logo.png" alt="pic" width="120">
+  <div>
+  <b>KAIST</b> <i> 2024~2029(expected)</i><br>
+  <i>Ph.D. in Computer Science.</i><br>
+  <!-- Advisor: Prof. <a href="http://mm.kaist.ac.kr/joon/">Joon Son Chung</a>  <br> -->
+  </div>
+</div>
+
+<div class="flex-container">
   <img src="images/KAIST_logo.png" alt="pic" width="120">
   <div>
-  <b>KAIST</b> <i> 2022.09~2024.06</i><br>
+  <b>KAIST</b> <i> 2022~2024(expected)</i><br>
   <i>M.S. in Electrical Engineering. <b>GPA:4.3/4.3</b></i><br>
   Advisor: Prof. <a href="http://mm.kaist.ac.kr/joon/">Joon Son Chung</a>  <br>
   </div>
@@ -98,8 +106,8 @@ Education
 <div class="flex-container">
   <img src="images/SCU.png" alt="pic" width="120">
   <div>
-  <b>Sichuan University</b> <i>2018.09~2022.06</i><br>
-  <i>B.S. in Software Engineering. <b>GPA: 3.92/4.0, Ranking: 3/215(Top 1.4%)</b> </i> <br>
+  <b>Sichuan University</b> <i>2018~2022</i><br>
+  <i>B.Eng. in Software Engineering. <b>GPA: 3.92/4.0, Ranking: 3/215(Top 1.4%)</b> </i> <br>
   A member of <a href="https://en.wikipedia.org/wiki/Wu_Yuzhang_Honors_College">Wu Yuzhang Honors College</a>.<br>
   Advisor: Prof. <a href="https://scholar.google.com/citations?hl=en&user=c2fckoYAAAAJ">Qijun Zhao</a>  <br>
   </div>

@@ -15,9 +15,9 @@ Hi there! I am Jiu Feng, an incoming Ph.D. student at [UT-Austin](https://www.ut
 
 I received my B.Eng. degree with honors from [Sichuan University](https://en.scu.edu.cn/) in 2022. Prior to that, I was a research intern at KAIST [Robotics and Computer Vision Lab](http://rcv.kaist.ac.kr/), led by Prof. [In So Kweon.](https://scholar.google.com/citations?user=XA8EOlEAAAAJ&hl=en)
 
-My research interests mainly lie in **Multimodal Learning, Audio-Visual Learning, Language-Vision Learning and Efficient Representation Learning**.
+My research interests mainly lie in **Audio-Visual Learning, Language-Vision Learning and Efficient Representation Learning**.
 
-If you need more detail information, my CV is [[here]](/files/CV_JiuFeng.pdf).
+If you need more detail information, my CV is [[here]](/files/CV_JiuFeng.pdf) (*Jun. 24 updated*).
 
 Publications
 ======
@@ -43,22 +43,44 @@ Publications
 
 
 <div class="flex-container">
+  <img src="images/AuM.png" alt="pic">
+  <div>
+  <b>[6] Audio Mamba: Bidirectional State Space Model for Audio Representation Learning</b> <br>
+  Mehmet Hamza Erol*, Arda Senocak*, <b>Jiu Feng</b>, Joon Son Chung <br>
+  <i>In Submission</i>
+  <a href="https://arxiv.org/abs/2406.03344">[link]</a> <br> 
+  <!-- <a href="https://jiufengsc.github.io/files/1890.pdf">[link]</a> -->
+  </div>
+</div>
+
+<div class="flex-container">
+  <img src="images/ElasticAST.png" alt="pic">
+  <div>
+  <b>[5] ElasticAST: An Audio Spectrogram Transformer for All Length and Resolutions</b> <br>
+  <b>Jiu Feng*</b>, Mehmet Hamza Erol*, Joon Son Chung, Arda Senocak <br>
+  <i>INTERSPEECH 2024</i>
+  <a href="https://jiufengsc.github.io/">[link]</a> <br> 
+  <!-- <a href="https://jiufengsc.github.io/files/1890.pdf">[link]</a> -->
+  </div>
+</div>
+
+<div class="flex-container">
   <img src="images/ReAST.png" alt="pic">
   <div>
-  <b>From Coarse To Fine: Efficient Training for Audio Spectrogram Transformers</b> <br>
+  <b>[4] From Coarse To Fine: Efficient Training for Audio Spectrogram Transformers</b> <br>
   <b>Jiu Feng*</b>, Mehmet Hamza Erol*, Joon Son Chung, Arda Senocak <br>
-  <i>Accepted by ICASSP 2024</i>
+  <i>ICASSP 2024</i>
   <a href="https://arxiv.org/pdf/2401.08415">[link]</a> <br> 
-  <a href="https://jiufengsc.github.io/files/1890.pdf">[link]</a>
+  <!-- <a href="https://jiufengsc.github.io/files/1890.pdf">[link]</a> -->
   </div>
 </div>
 
 <div class="flex-container">
   <img src="images/FlexiAST.png" alt="pic">
   <div>
-  <b>FlexiAST: Flexibility is What AST Needs</b> <br>
+  <b>[3] FlexiAST: Flexibility is What AST Needs</b> <br>
   <b>Jiu Feng*</b>, Mehmet Hamza Erol*, Joon Son Chung, Arda Senocak <br>
-  <i>Accepted by INTERSPEECH 2023</i> 
+  <i>INTERSPEECH 2023</i> 
   <a href="https://arxiv.org/pdf/2307.09286">[link]</a>
   <br>
   </div>
@@ -67,9 +89,9 @@ Publications
 <div class="flex-container">
   <img src="images/ECCV2022.png" alt="pic">
   <div>
-  <b>Decoupled adversarial contrastive learning for self-supervised adversarial robustness</b> <br>
+  <b>[2] Decoupled adversarial contrastive learning for self-supervised adversarial robustness</b> <br>
   Chaoning Zhang*, Kang Zhang*, Chenshuang Zhang, Axi Niu, <b>Jiu Feng</b>, Chang D Yoo, In So Kweon <br>
-  <i>Accepted by ECCV 2022 <p style="color:red;display: inline;"> <b>Oral</b> </p> </i> <a href="https://arxiv.org/pdf/2207.10899">[link]</a>
+  <i>ECCV 2022 <p style="color:red;display: inline;"> <b>Oral</b> </p> </i> <a href="https://arxiv.org/pdf/2207.10899">[link]</a>
   <!-- <a href="https://arxiv.org/pdf/2307.09286">[Link]</a>  -->
   </div>
 </div>
@@ -77,7 +99,7 @@ Publications
 <div class="flex-container">
   <img src="images/white.jpeg" alt="pic">
   <div>
-  <b>	Noise augmentation is all you need for FGSM fast adversarial training: Catastrophic overfitting and robust overfitting require different augmentation</b> <br>
+  <b>	[1] Noise augmentation is all you need for FGSM fast adversarial training: Catastrophic overfitting and robust overfitting require different augmentation</b> <br>
   Chaoning Zhang*, Kang Zhang*, Axi Niu, Chenshuang Zhang,  <b>Jiu Feng</b>, Chang D Yoo, In So Kweon <br>
   <i>arXiv e-prints 2022</i> 
   <a href="https://jiufengsc.github.io/files/Noise_Augmentation_Is_All_You_Need_For_FGSM_Fast_A.pdf">[link]</a>
@@ -88,9 +110,10 @@ Publications
 Education
 ======
 <div class="flex-container">
-  <img src="images/UT-Austin-logo.png" alt="pic" width="60">
+  <img src="images/UT-Austin-logo.png" alt="pic" width="120">
   <div>
-  <b>The University of Texas at Austin</b> <i> 2024~2029(expected)</i><br>
+  <b>The University of Texas at Austin</b> <br>
+  <i> 2024 ~ 2029 (expected)</i><br>
   <i>Ph.D. in Computer Science.</i><br>
   <!-- Advisor: Prof. <a href="http://mm.kaist.ac.kr/joon/">Joon Son Chung</a>  <br> -->
   <!-- Advisor: Prof. <a href="https://www.cs.utexas.edu/~harwath/">David Harwath</a>  <br> -->
@@ -98,21 +121,23 @@ Education
 </div>
 
 <div class="flex-container">
-  <img src="images/KAIST_logo.png" alt="pic" width="60">
+  <img src="images/KAIST_logo.png" alt="pic" width="120">
   <div>
-  <b>KAIST</b> <i> 2022~2024(expected)</i><br>
+  <b>KAIST</b> <br>
+  <i> 2022 ~ 2024</i><br>
   <i>M.S. in Electrical Engineering. <b>GPA:4.3/4.3</b></i><br>
-  Advisor: Prof. <a href="http://mm.kaist.ac.kr/joon/">Joon Son Chung</a>  <br>
+  <!-- Advisor: Prof. <a href="http://mm.kaist.ac.kr/joon/">Joon Son Chung</a>  <br> -->
   </div>
 </div>
 
 <div class="flex-container">
-  <img src="images/SCU.png" alt="pic" width="60">
+  <img src="images/SCU.png" alt="pic" width="120">
   <div>
-  <b>Sichuan University</b> <i>2018~2022</i><br>
+  <b>Sichuan University</b> <br>
+  <i>2018 ~ 2022</i><br>
   <i>B.Eng. in Software Engineering. <b>GPA: 3.92/4.0, Ranking: 3/215(Top 1.4%)</b> </i> <br>
-  A member of <a href="https://en.wikipedia.org/wiki/Wu_Yuzhang_Honors_College">Wu Yuzhang Honors College</a>.<br>
-  Advisor: Prof. <a href="https://scholar.google.com/citations?hl=en&user=c2fckoYAAAAJ">Qijun Zhao</a>  <br>
+  <!-- A member of <a href="https://en.wikipedia.org/wiki/Wu_Yuzhang_Honors_College">Wu Yuzhang Honors College</a>.<br> -->
+  <!-- Advisor: Prof. <a href="https://scholar.google.com/citations?hl=en&user=c2fckoYAAAAJ">Qijun Zhao</a>  <br> -->
   </div>
 </div>
 
@@ -135,7 +160,7 @@ Selected Awards & Scholarship
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WU1e21Wr3it5EdEPQQ961ysHrThSFB_sAcHq5P0B1DA"></script>
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5iffew9vddy&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-MPEZ7VWJR6"></script>
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-MPEZ7VWJR6"></script> -->
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}

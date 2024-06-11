@@ -49,6 +49,7 @@ Publications
   <b>Jiu Feng*</b>, Mehmet Hamza Erol*, Joon Son Chung, Arda Senocak <br>
   <i>Accepted by ICASSP 2024</i>
   <a href="https://arxiv.org/pdf/2401.08415">[link]</a> <br> 
+  <a href="https://jiufengsc.github.io/files/1890.pdf">[link]</a>
   </div>
 </div>
 
@@ -78,7 +79,8 @@ Publications
   <div>
   <b>	Noise augmentation is all you need for FGSM fast adversarial training: Catastrophic overfitting and robust overfitting require different augmentation</b> <br>
   Chaoning Zhang*, Kang Zhang*, Axi Niu, Chenshuang Zhang,  <b>Jiu Feng</b>, Chang D Yoo, In So Kweon <br>
-  <i>arXiv e-prints 2022</i> <a href="https://jiufengsc.github.io/files/Noise_Augmentation_Is_All_You_Need_For_FGSM_Fast_A.pdf">[link]</a>
+  <i>arXiv e-prints 2022</i> 
+  <a href="https://jiufengsc.github.io/files/Noise_Augmentation_Is_All_You_Need_For_FGSM_Fast_A.pdf">[link]</a>
   <!-- <a href="https://deepai.org/publication/noise-augmentation-is-all-you-need-for-fgsm-fast-adversarial-training-catastrophic-overfitting-and-robust-overfitting-require-different-augmentation">[Link]</a>  -->
   </div>
 </div>
@@ -86,7 +88,7 @@ Publications
 Education
 ======
 <div class="flex-container">
-  <img src="images/UT-Austin-logo.png" alt="pic" width="120">
+  <img src="images/UT-Austin-logo.png" alt="pic" width="60">
   <div>
   <b>The University of Texas at Austin</b> <i> 2024~2029(expected)</i><br>
   <i>Ph.D. in Computer Science.</i><br>
@@ -96,7 +98,7 @@ Education
 </div>
 
 <div class="flex-container">
-  <img src="images/KAIST_logo.png" alt="pic" width="120">
+  <img src="images/KAIST_logo.png" alt="pic" width="60">
   <div>
   <b>KAIST</b> <i> 2022~2024(expected)</i><br>
   <i>M.S. in Electrical Engineering. <b>GPA:4.3/4.3</b></i><br>
@@ -105,7 +107,7 @@ Education
 </div>
 
 <div class="flex-container">
-  <img src="images/SCU.png" alt="pic" width="120">
+  <img src="images/SCU.png" alt="pic" width="60">
   <div>
   <b>Sichuan University</b> <i>2018~2022</i><br>
   <i>B.Eng. in Software Engineering. <b>GPA: 3.92/4.0, Ranking: 3/215(Top 1.4%)</b> </i> <br>
@@ -122,9 +124,9 @@ Selected Awards & Scholarship
 - **Provincial Outstanding Graduates** (Top 3% in Sichuan Province)<br>
 - **Special Award of Wang Wen Guo Scholarship** (5 Winners in Honors College)<br>
 - **First-class Scholarship of Sichuan University** (Top 2% in SCU)<br>
-- **National Encouragement Scholarship** (Awarded for two years)<br>
-- **National Second Prize**(Top 2%) in “Higher Education Cup” Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)<br>
-- **Gold Award** in International Genetically Engineered Machine Competition (IGEM)<br>
+<!-- - **National Encouragement Scholarship** (Awarded for two years)<br> -->
+<!-- - **National Second Prize**(Top 2%) in “Higher Education Cup” Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)<br> -->
+<!-- - **Gold Award** in International Genetically Engineered Machine Competition (IGEM)<br> -->
 <!-- - **Meritorious Winner** in Interdisciplinary Contest In Modeling (ICM)<br> -->
 <!-- - **First Prize**(Top 5%) in the Asia and Pacific Mathematical Contest in Modeling (APMCM)<br> -->
 

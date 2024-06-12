@@ -57,7 +57,7 @@ Publications
   <img src="images/ElasticAST.png" alt="pic">
   <div>
   <b>[5] ElasticAST: An Audio Spectrogram Transformer for All Length and Resolutions</b> <br>
-  <b>Jiu Feng*</b>, Mehmet Hamza Erol*, Joon Son Chung, Arda Senocak <br>
+  <b>Jiu Feng</b>, Mehmet Hamza Erol, Joon Son Chung, Arda Senocak <br>
   <i>INTERSPEECH 2024</i>
   <a href="https://jiufengsc.github.io/">[link]</a> <br> 
   <!-- <a href="https://jiufengsc.github.io/files/1890.pdf">[link]</a> -->

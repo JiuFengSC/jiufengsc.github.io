@@ -11,7 +11,8 @@ redirect_from:
 
 About me
 ======
-Hi there! I am Jiu Feng, an incoming Ph.D. student at [UT-Austin](https://www.utexas.edu/). Currently, I am a M.S. Student at [KAIST](https://www.kaist.ac.kr/en/), supervised by Prof. [Joon Son Chung](http://mm.kaist.ac.kr/joon/). I also worked closely with Dr. [Arda Senocak](https://ardasnck.github.io/) in my recent research. 
+Hi there! I am Jiu Feng, an incoming Ph.D. student at [UT-Austin](https://www.utexas.edu/). \\
+Currently, I am a M.S. Student at [KAIST](https://www.kaist.ac.kr/en/), supervised by Prof. [Joon Son Chung](http://mm.kaist.ac.kr/joon/). I also worked closely with Dr. [Arda Senocak](https://ardasnck.github.io/) in my recent research. 
 
 I received my B.Eng. degree with honors from [Sichuan University](https://en.scu.edu.cn/) in 2022. Prior to that, I was a research intern at KAIST [Robotics and Computer Vision Lab](http://rcv.kaist.ac.kr/), led by Prof. [In So Kweon.](https://scholar.google.com/citations?user=XA8EOlEAAAAJ&hl=en)
 
@@ -59,8 +60,8 @@ Publications
   <b>[5] ElasticAST: An Audio Spectrogram Transformer for All Length and Resolutions</b> <br>
   <b>Jiu Feng</b>, Mehmet Hamza Erol, Joon Son Chung, Arda Senocak <br>
   <i>INTERSPEECH 2024</i>
-  <a href="https://jiufengsc.github.io/">[link]</a> <br> 
-  <!-- <a href="https://jiufengsc.github.io/files/1890.pdf">[link]</a> -->
+  <!-- <a href="https://jiufengsc.github.io/">[link]</a> <br>  -->
+  <a href="https://jiufengsc.github.io/files/ElasticAST.pdf">[link]</a>
   </div>
 </div>
 

@@ -11,8 +11,8 @@ redirect_from:
 
 About me
 ======
-Hi there! I am Jiu Feng, an incoming Ph.D. student at [UT-Austin](https://www.utexas.edu/). \\
-Currently, I am a M.S. Student at [KAIST](https://www.kaist.ac.kr/en/), supervised by Prof. [Joon Son Chung](http://mm.kaist.ac.kr/joon/). I also worked closely with Dr. [Arda Senocak](https://ardasnck.github.io/) in my recent research. 
+Hi there! I am Jiu Feng, a first-year Ph.D. student at [UT-Austin](https://www.utexas.edu/), advised by Prof. [Kristen Grauman](https://www.cs.utexas.edu/~grauman/). \\
+Previously, I got my M.S. degree at [KAIST](https://www.kaist.ac.kr/en/), supervised by Prof. [Joon Son Chung](http://mm.kaist.ac.kr/joon/). I also worked closely with Dr. [Arda Senocak](https://ardasnck.github.io/) during that time. 
 
 I received my B.Eng. degree with honors from [Sichuan University](https://en.scu.edu.cn/) in 2022. Prior to that, I was a research intern at KAIST [Robotics and Computer Vision Lab](http://rcv.kaist.ac.kr/), led by Prof. [In So Kweon.](https://scholar.google.com/citations?user=XA8EOlEAAAAJ&hl=en)
 

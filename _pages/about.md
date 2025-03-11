@@ -115,7 +115,7 @@ Education
   <img src="images/UT-Austin-logo.png" alt="pic" width="120">
   <div>
   <b>The University of Texas at Austin</b> <br>
-  <i> 2024 ~ 2029 (expected)</i><br>
+  <i> 2024 ~ Present</i><br>
   <i>Ph.D. in Computer Science.</i><br>
   <!-- Advisor: Prof. <a href="http://mm.kaist.ac.kr/joon/">Joon Son Chung</a>  <br> -->
   Advisor: Prof. <a href="https://www.cs.utexas.edu/~grauman/">Kristen Grauman</a>  <br>

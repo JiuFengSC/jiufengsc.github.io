@@ -49,8 +49,8 @@ Publications
   <div>
   <b>[6] Audio Mamba: Bidirectional State Space Model for Audio Representation Learning</b> <br>
   Mehmet Hamza Erol*, Arda Senocak*, <b>Jiu Feng</b>, Joon Son Chung <br>
-  <i>In Submission</i>
-  <a href="https://arxiv.org/abs/2406.03344">[link]</a> <br> 
+  <i>Signal Processing Letter</i>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10720871">[link]</a> <br> 
   <!-- <a href="https://jiufengsc.github.io/files/1890.pdf">[link]</a> -->
   </div>
 </div>
@@ -118,7 +118,7 @@ Education
   <i> 2024 ~ 2029 (expected)</i><br>
   <i>Ph.D. in Computer Science.</i><br>
   <!-- Advisor: Prof. <a href="http://mm.kaist.ac.kr/joon/">Joon Son Chung</a>  <br> -->
-  <!-- Advisor: Prof. <a href="https://www.cs.utexas.edu/~harwath/">David Harwath</a>  <br> -->
+  Advisor: Prof. <a href="https://www.cs.utexas.edu/~grauman/">Kristen Grauman</a>  <br>
   </div>
 </div>
 
@@ -128,7 +128,7 @@ Education
   <b>KAIST</b> <br>
   <i> 2022 ~ 2024</i><br>
   <i>M.S. in Electrical Engineering. <b>GPA:4.3/4.3</b></i><br>
-  <!-- Advisor: Prof. <a href="http://mm.kaist.ac.kr/joon/">Joon Son Chung</a>  <br> -->
+  Advisor: Prof. <a href="http://mm.kaist.ac.kr/joon/">Joon Son Chung</a>  <br>
   </div>
 </div>
 
@@ -139,7 +139,7 @@ Education
   <i>2018 ~ 2022</i><br>
   <i>B.Eng. in Software Engineering. <b>GPA: 3.92/4.0, Ranking: 3/215(Top 1.4%)</b> </i> <br>
   <!-- A member of <a href="https://en.wikipedia.org/wiki/Wu_Yuzhang_Honors_College">Wu Yuzhang Honors College</a>.<br> -->
-  <!-- Advisor: Prof. <a href="https://scholar.google.com/citations?hl=en&user=c2fckoYAAAAJ">Qijun Zhao</a>  <br> -->
+  Advisor: Prof. <a href="https://scholar.google.com/citations?hl=en&user=c2fckoYAAAAJ">Qijun Zhao</a>  <br>
   </div>
 </div>
 

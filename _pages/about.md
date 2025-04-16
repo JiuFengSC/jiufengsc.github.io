@@ -11,7 +11,8 @@ redirect_from:
 
 About me
 ======
-Hi there! I am Jiu Feng, a first-year Ph.D. student at [UT-Austin](https://www.utexas.edu/), advised by Prof. [Kristen Grauman](https://www.cs.utexas.edu/~grauman/). 
+Hi there! I am Jiu Feng, a first-year Ph.D. student at [UT-Austin](https://www.utexas.edu/).
+ <!-- advised by Prof. [Kristen Grauman](https://www.cs.utexas.edu/~grauman/).  -->
 
 Previously, I got my M.S. degree at [KAIST](https://www.kaist.ac.kr/en/), supervised by Prof. [Joon Son Chung](http://mm.kaist.ac.kr/joon/). I also worked closely with Dr. [Arda Senocak](https://ardasnck.github.io/) during that time. 
 
@@ -118,7 +119,7 @@ Education
   <i> 2024 ~ Present</i><br>
   <i>Ph.D. in Computer Science.</i><br>
   <!-- Advisor: Prof. <a href="http://mm.kaist.ac.kr/joon/">Joon Son Chung</a>  <br> -->
-  Advisor: Prof. <a href="https://www.cs.utexas.edu/~grauman/">Kristen Grauman</a>  <br>
+  <!-- Advisor: Prof. <a href="https://www.cs.utexas.edu/~grauman/">Kristen Grauman</a>  <br> -->
   </div>
 </div>
 

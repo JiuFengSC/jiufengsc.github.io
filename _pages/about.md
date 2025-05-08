@@ -146,11 +146,11 @@ Education
 
 Selected Awards & Scholarship
 ======
-- **KAIST Full Scholarship** for M.S. students<br>
+<!-- - **KAIST Full Scholarship** for M.S. students<br> -->
 - **National Scholarship** by Ministry of Education of China (Top **0.2%** in China)<br>
 - **Provincial Outstanding Graduates** (Top 3% in Sichuan Province)<br>
 - **Special Award of Wang Wen Guo Scholarship** (5 Winners in Honors College)<br>
-- **First-class Scholarship of Sichuan University** (Top 2% in SCU)<br>
+<!-- - **First-class Scholarship of Sichuan University** (Top 2% in SCU)<br> -->
 <!-- - **National Encouragement Scholarship** (Awarded for two years)<br> -->
 <!-- - **National Second Prize**(Top 2%) in “Higher Education Cup” Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)<br> -->
 <!-- - **Gold Award** in International Genetically Engineered Machine Competition (IGEM)<br> -->

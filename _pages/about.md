@@ -157,9 +157,11 @@ Selected Awards & Scholarship
 <!-- - **Meritorious Winner** in Interdisciplinary Contest In Modeling (ICM)<br> -->
 <!-- - **First Prize**(Top 5%) in the Asia and Pacific Mathematical Contest in Modeling (APMCM)<br> -->
 
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WU1e21Wr3it5EdEPQQ961ysHrThSFB_sAcHq5P0B1DA"></script> -->
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=WU1e21Wr3it5EdEPQQ961ysHrThSFB_sAcHq5P0B1DA'></script>
 <div hidden  style="width:50%;">
 <!-- <a href="http://www.clustrmaps.com/map/Jiufengsc.github.io" title="Visit tracker for Jiufengsc.github.io"><img src="//www.clustrmaps.com/map_v2.png?d=WU1e21Wr3it5EdEPQQ961ysHrThSFB_sAcHq5P0B1DA" /></a> -->
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WU1e21Wr3it5EdEPQQ961ysHrThSFB_sAcHq5P0B1DA"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=WU1e21Wr3it5EdEPQQ961ysHrThSFB_sAcHq5P0B1DA"></script> -->
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5iffew9vddy&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
 <!-- Google tag (gtag.js) -->
 <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-MPEZ7VWJR6"></script> -->

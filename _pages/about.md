@@ -11,35 +11,146 @@ redirect_from:
 
 About me
 ======
-Hi there! I am Jiu Feng, a first-year Ph.D. student at [UT-Austin](https://www.utexas.edu/). 
+Hi there! I am Jiu Feng, a second-year Ph.D. student at [UT-Austin](https://www.utexas.edu/), advised by Prof.  [Mingyuan Zhou](https://mingyuanzhou.github.io/).
 
-Previously, I got my M.S. degree at [KAIST](https://www.kaist.ac.kr/en/), supervised by Prof. [Joon Son Chung](http://mm.kaist.ac.kr/joon/). I also worked closely with Dr. [Arda Senocak](https://ardasnck.github.io/) during that time. 
+My research interests mainly lie in **LLM Post-trainig, and  Multimodal Under-
+standing and Generation**.
+
+Previously, I got my M.S. degree at [KAIST](https://www.kaist.ac.kr/en/), supervised by Prof. [Joon Son Chung](http://mm.kaist.ac.kr/joon/), and worked closely with Prof. [Arda Senocak](https://ardasnck.github.io/) during that time. 
 
 I received my B.Eng. degree with honors from [Sichuan University](https://en.scu.edu.cn/) in 2022. Prior to that, I was a research intern at KAIST [Robotics and Computer Vision Lab](http://rcv.kaist.ac.kr/), led by Prof. [In So Kweon.](https://scholar.google.com/citations?user=XA8EOlEAAAAJ&hl=en)
 
-My research interests mainly lie in **Audio-Visual Learning, Language-Vision Learning and Efficient Representation Learning**.
+If you need more detail information, my CV is [[here]](/files/CV_JiuFeng.pdf) (*April. 26 updated*).
 
-If you need more detail information, my CV is [[here]](/files/CV_JiuFeng.pdf) (*Jun. 24 updated*).
+Industry Experience
+======
+<div class="flex-container experience-card">
+  <span class="experience-logo-frame">
+    <img class="experience-logo" src="images/netflix-logo.png" alt="Netflix logo">
+  </span>
+  <div class="experience-detail">
+  <b>Machine Learning Intern</b> <br>
+  <span class="experience-company">Netflix</span><br>
+  <i>June 2026 ~ September 2026</i><br>
+  </div>
+</div>
 
 Publications
 ======
 <style>
 .flex-container {
   display: flex;
+  gap: 18px;
   align-items: center;
+  margin: 0.9em 0;
+  padding: 12px 14px;
+  border: 1px solid #eeeeee;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.04);
 }
 
 .flex-container > div {
-  margin: 10px;
-  padding:5px;
+  flex: 1;
+  margin: 0;
+  padding: 0;
   align-items: flex-start;
+  line-height: 1.45;
 }
 
 .flex-container img {
-      max-width: 20%; /* 设置图片最大宽度，根据需要进行调整 */
-      margin: 10px;
-      /* margin-left: 20px; 图片右边距，可以根据需要调整 */
-      /* margin-top: 15px; 图片右边距，可以根据需要调整 */
+      flex: 0 0 118px;
+      width: 118px;
+      max-width: 118px;
+      height: auto;
+      margin: 0;
+      padding: 4px;
+      border-radius: 6px;
+      background: #fafafa;
+    }
+
+.flex-container.experience-card {
+      margin: 0 0 1.25em;
+      padding: 14px 16px;
+      border-color: #e6e6e6;
+      border-left: 4px solid #e50914;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    }
+
+.experience-logo-frame {
+      flex: 0 0 72px;
+      display: flex;
+      width: 72px;
+      height: 72px;
+      overflow: hidden;
+      align-items: flex-start;
+      justify-content: center;
+      border-radius: 8px;
+      background: #111;
+    }
+
+.flex-container .experience-logo-frame img.experience-logo {
+      width: 126px;
+      max-width: none;
+      height: auto;
+      margin: 0;
+      padding: 0;
+      border-radius: 0;
+      background: transparent;
+    }
+
+.flex-container.experience-card > .experience-detail {
+      margin: 0;
+      padding: 0;
+    }
+
+.experience-company {
+      color: #e50914;
+      font-weight: 600;
+    }
+
+.page__content h1 {
+      margin-top: 1.45em;
+      padding-bottom: 0.35em;
+      border-bottom: 1px solid #e8e8e8;
+      color: #222;
+      font-size: 1.35em;
+    }
+
+.page__content h1:first-child {
+      margin-top: 0;
+    }
+
+.page__content p {
+      line-height: 1.65;
+    }
+
+.page__content li {
+      margin-bottom: 0.35em;
+    }
+
+@media (max-width: 560px) {
+      .flex-container {
+        align-items: flex-start;
+        gap: 12px;
+        padding: 12px;
+      }
+
+      .flex-container img {
+        flex-basis: 82px;
+        width: 82px;
+        max-width: 82px;
+      }
+
+      .experience-logo-frame {
+        flex-basis: 64px;
+        width: 64px;
+        height: 64px;
+      }
+
+      .flex-container .experience-logo-frame img.experience-logo {
+        width: 112px;
+      }
     }
 </style>
 

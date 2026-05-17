@@ -13,8 +13,7 @@ About me
 ======
 Hi there! I am Jiu Feng, a second-year Ph.D. student at [UT-Austin](https://www.utexas.edu/), advised by Prof.  [Mingyuan Zhou](https://mingyuanzhou.github.io/).
 
-My research interests mainly lie in **LLM Post-trainig, and  Multimodal Under-
-standing and Generation**.
+My research interests mainly lie in **LLM Post-trainig, and  Multimodal Understanding and Generation**.
 
 Previously, I got my M.S. degree at [KAIST](https://www.kaist.ac.kr/en/), supervised by Prof. [Joon Son Chung](http://mm.kaist.ac.kr/joon/), and worked closely with Prof. [Arda Senocak](https://ardasnck.github.io/) during that time. 
 

@@ -28,7 +28,7 @@ Industry Experience
     <img class="experience-logo" src="images/netflix-logo.png" alt="Netflix logo">
   </span>
   <div class="experience-detail">
-  <b>Machine Learning Intern</b> <br>
+  <b>Machine Learning Intern</b> for Multi-model GenAI<br>
   <span class="experience-company">Netflix</span><br>
   <i>June 2026 ~ September 2026</i><br>
   </div>
@@ -153,6 +153,16 @@ Publications
     }
 </style>
 
+<div class="flex-container">
+  <img src="images/AuM.png" alt="pic">
+  <div>
+  <b>[7] Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis</b> <br>
+  Dayou Li, Lulin Liu, Bangya Liu, Shijie Zhou, Jiu Feng, Ziqi Lu, Minghui Zheng, Chenyu You, Zhiwen Fan <br>
+  <i>Signal Processing Letter</i>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10720871">[link]</a> <br> 
+  <!-- <a href="https://jiufengsc.github.io/files/1890.pdf">[link]</a> -->
+  </div>
+</div>
 
 <div class="flex-container">
   <img src="images/AuM.png" alt="pic">

@@ -158,7 +158,7 @@ Publications
   <div>
   <b>[7] Egocentric World Model for Photorealistic Hand-Object Interaction Synthesis</b> <br>
   Dayou Li, Lulin Liu, Bangya Liu, Shijie Zhou, Jiu Feng, Ziqi Lu, Minghui Zheng, Chenyu You, Zhiwen Fan <br>
-  <i>Signal Processing Letter</i>
+  <i>ECCV 2026</i>
   <a href="https://arxiv.org/pdf/2603.13615">[link]</a> <br> 
   <!-- <a href="https://jiufengsc.github.io/files/1890.pdf">[link]</a> -->
   </div>
